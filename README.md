@@ -30,6 +30,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
@@ -42,4 +43,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
