@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [1472-design-browser-history](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +93,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 <!---LeetCode Topics End-->
