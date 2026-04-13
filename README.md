@@ -141,6 +141,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0507-perfect-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## Sorting
