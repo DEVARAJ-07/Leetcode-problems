@@ -17,6 +17,7 @@
 | [0724-find-pivot-index](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [1472-design-browser-history](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@
 | [0649-dota2-senate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3271-hash-divided-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3271-hash-divided-string/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
