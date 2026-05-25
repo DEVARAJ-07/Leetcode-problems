@@ -47,6 +47,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0649-dota2-senate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Linked List
@@ -90,6 +91,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0649-dota2-senate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [3271-hash-divided-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3271-hash-divided-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -166,4 +168,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 <!---LeetCode Topics End-->
