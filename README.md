@@ -14,6 +14,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0496-next-greater-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0724-find-pivot-index](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -30,12 +31,14 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0496-next-greater-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [1472-design-browser-history](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Design
@@ -189,4 +192,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
