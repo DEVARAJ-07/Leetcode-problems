@@ -154,6 +154,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,4 +197,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
