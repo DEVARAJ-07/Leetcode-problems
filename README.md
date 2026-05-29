@@ -155,6 +155,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0207-course-schedule](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0207-course-schedule/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Math
@@ -215,4 +216,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0207-course-schedule](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0207-course-schedule/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
