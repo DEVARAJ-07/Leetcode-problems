@@ -105,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0091-decode-ways](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0091-decode-ways/) | Medium |
 | [0649-dota2-senate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [3271-hash-divided-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3271-hash-divided-string/) | Medium |
 ## Simulation
@@ -193,6 +194,7 @@
 | [0053-maximum-subarray](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0322-coin-change/) | Medium |
