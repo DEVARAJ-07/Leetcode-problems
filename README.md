@@ -164,6 +164,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0507-perfect-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -186,6 +187,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -233,4 +235,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
