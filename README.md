@@ -107,6 +107,7 @@
 | [0022-generate-parentheses](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0091-decode-ways](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0091-decode-ways/) | Medium |
 | [0649-dota2-senate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3271-hash-divided-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3271-hash-divided-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -199,6 +200,7 @@
 | [0198-house-robber](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0518-coin-change-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
