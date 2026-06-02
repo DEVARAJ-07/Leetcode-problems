@@ -105,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0072-edit-distance](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0091-decode-ways/) | Medium |
 | [0649-dota2-senate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -195,6 +196,7 @@
 | [0053-maximum-subarray](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0198-house-robber/) | Medium |
