@@ -7,9 +7,14 @@ class Solution {
                 map.put(stack.pop(), num);
             stack.push(num);
         }
-        int[] res = new int[nums1.length];
-        for (int i = 0; i < nums1.length; i++) 
-            res[i] = map.getOrDefault(nums1[i], -1);
-        return res;
+        while(!stack.isEmpty())
+        {
+            map.put(stack.pop(),-1);
+        }
+        for(int i=0;i<nums1.length;i++)
+        {
+            nums1[i]=map.get(nums1[i]);
+        }
+        return nums1;
     }
 }
