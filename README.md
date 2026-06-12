@@ -281,5 +281,6 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0183-customers-who-never-order/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
