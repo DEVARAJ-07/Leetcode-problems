@@ -276,5 +276,6 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0175-combine-two-tables/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
