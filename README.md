@@ -287,5 +287,6 @@
 | [0595-big-countries](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1148-article-views-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1148-article-views-i/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
