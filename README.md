@@ -273,4 +273,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0062-unique-paths/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1978-employees-whose-manager-left-the-company](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
