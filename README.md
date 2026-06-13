@@ -292,5 +292,6 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1148-article-views-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1148-article-views-i/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
