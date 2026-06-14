@@ -108,6 +108,7 @@
 | [0072-edit-distance](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0091-decode-ways/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0504-base-7](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0504-base-7/) | Easy |
 | [0649-dota2-senate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3271-hash-divided-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3271-hash-divided-string/) | Medium |
@@ -176,6 +177,7 @@
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0504-base-7](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
