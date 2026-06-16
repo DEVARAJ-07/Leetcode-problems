@@ -35,6 +35,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0290-word-pattern](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0290-word-pattern/) | Easy |
 | [0496-next-greater-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -107,6 +108,7 @@
 | [0022-generate-parentheses](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0091-decode-ways/) | Medium |
+| [0290-word-pattern](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0290-word-pattern/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0504-base-7](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0504-base-7/) | Easy |
 | [0649-dota2-senate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
