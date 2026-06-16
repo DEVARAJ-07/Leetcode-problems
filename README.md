@@ -114,6 +114,7 @@
 | [0649-dota2-senate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3271-hash-divided-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3271-hash-divided-string/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3271-hash-divided-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3271-hash-divided-string/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
