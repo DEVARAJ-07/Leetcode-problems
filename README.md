@@ -45,6 +45,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1472-design-browser-history](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Design
@@ -112,6 +113,7 @@
 | [0459-repeated-substring-pattern](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0504-base-7](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0504-base-7/) | Easy |
 | [0649-dota2-senate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3271-hash-divided-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3271-hash-divided-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -213,6 +215,7 @@
 | [0198-house-robber](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0518-coin-change-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -222,6 +225,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
