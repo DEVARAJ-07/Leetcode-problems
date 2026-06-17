@@ -139,6 +139,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -307,4 +308,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
