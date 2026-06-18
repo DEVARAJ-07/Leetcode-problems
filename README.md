@@ -27,6 +27,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@
 | [1143-longest-common-subsequence](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3271-hash-divided-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3271-hash-divided-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3271-hash-divided-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3271-hash-divided-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
