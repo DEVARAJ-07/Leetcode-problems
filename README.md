@@ -32,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
@@ -107,6 +108,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0091-decode-ways/) | Medium |
@@ -320,4 +322,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0191-number-of-1-bits/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
