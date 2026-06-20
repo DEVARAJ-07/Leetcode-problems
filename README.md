@@ -17,6 +17,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0322-coin-change](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0322-coin-change/) | Medium |
 | [0496-next-greater-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0518-coin-change-ii](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0518-coin-change-ii/) | Medium |
@@ -38,6 +39,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0290-word-pattern/) | Easy |
 | [0496-next-greater-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 ## Stack
@@ -190,6 +192,7 @@
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0268-missing-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0504-base-7](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -202,6 +205,7 @@
 | [0169-majority-element](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 ## Backtracking
@@ -323,6 +327,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0191-number-of-1-bits/) | Easy |
+| [0268-missing-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,4 +336,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0162-find-peak-element/) | Medium |
+| [0268-missing-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
