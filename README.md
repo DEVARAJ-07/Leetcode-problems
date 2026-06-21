@@ -27,6 +27,7 @@
 | [1046-last-stone-weight](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1472-design-browser-history](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -208,6 +209,7 @@
 | [0268-missing-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +239,7 @@
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,4 +340,8 @@
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
