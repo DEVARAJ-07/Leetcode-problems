@@ -43,6 +43,7 @@
 | [0268-missing-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0290-word-pattern/) | Easy |
 | [0496-next-greater-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@
 | [0649-dota2-senate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3271-hash-divided-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3271-hash-divided-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -235,6 +237,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
