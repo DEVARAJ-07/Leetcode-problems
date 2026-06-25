@@ -27,6 +27,7 @@
 | [1046-last-stone-weight](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1472-design-browser-history](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
