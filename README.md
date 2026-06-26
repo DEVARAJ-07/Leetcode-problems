@@ -238,6 +238,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0322-coin-change/) | Medium |
+| [0338-counting-bits](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0338-counting-bits/) | Easy |
 | [0518-coin-change-ii](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -346,6 +347,7 @@
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0338-counting-bits/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
