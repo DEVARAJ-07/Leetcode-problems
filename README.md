@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -191,6 +192,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -361,11 +363,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0162-find-peak-element/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
