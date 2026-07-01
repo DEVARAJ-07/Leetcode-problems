@@ -33,6 +33,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -195,6 +196,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Depth-First Search
