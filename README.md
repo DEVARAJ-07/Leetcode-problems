@@ -24,6 +24,7 @@
 | [0500-keyboard-row](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0500-keyboard-row/) | Easy |
 | [0518-coin-change-ii](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0724-find-pivot-index](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1046-last-stone-weight](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
@@ -111,6 +112,7 @@
 | [0141-linked-list-cycle](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
@@ -175,6 +177,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1046-last-stone-weight](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -230,6 +233,7 @@
 | [0217-contains-duplicate](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -366,6 +370,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -373,6 +378,7 @@
 | [0162-find-peak-element](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
