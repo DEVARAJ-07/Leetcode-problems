@@ -378,6 +378,7 @@
 | [0162-find-peak-element](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -387,4 +388,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
