@@ -26,6 +26,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0724-find-pivot-index](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1046-last-stone-weight](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1472-design-browser-history](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
@@ -188,6 +189,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0766-toeplitz-matrix/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
