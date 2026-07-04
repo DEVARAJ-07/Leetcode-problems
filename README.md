@@ -215,6 +215,7 @@
 | [0207-course-schedule](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0207-course-schedule/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,10 +314,12 @@
 | [0200-number-of-islands](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0322-coin-change/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0207-course-schedule/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +328,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
