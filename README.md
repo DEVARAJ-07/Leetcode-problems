@@ -227,6 +227,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
