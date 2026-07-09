@@ -36,6 +36,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -55,6 +56,7 @@
 | [0500-keyboard-row](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0500-keyboard-row/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -325,6 +327,7 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0207-course-schedule/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,6 +337,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,6 +396,7 @@
 | [0268-missing-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0658-find-k-closest-elements/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
