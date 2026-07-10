@@ -227,6 +227,7 @@
 | [0062-unique-paths](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0292-nim-game/) | Easy |
 | [0504-base-7](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -412,4 +413,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
