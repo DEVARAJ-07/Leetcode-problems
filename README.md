@@ -29,6 +29,7 @@
 | [0766-toeplitz-matrix](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1046-last-stone-weight](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -56,6 +57,7 @@
 | [0496-next-greater-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0500-keyboard-row/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -245,6 +247,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
