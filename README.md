@@ -37,6 +37,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -254,6 +255,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -290,6 +292,7 @@
 | [0678-valid-parenthesis-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
