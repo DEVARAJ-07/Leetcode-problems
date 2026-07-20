@@ -29,6 +29,7 @@
 | [0766-toeplitz-matrix](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1046-last-stone-weight](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
+| [1260-shift-2d-grid](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -158,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1260-shift-2d-grid](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3271-hash-divided-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3271-hash-divided-string/) | Medium |
@@ -199,6 +201,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0766-toeplitz-matrix/) | Easy |
+| [1260-shift-2d-grid](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
