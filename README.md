@@ -28,6 +28,7 @@
 | [0724-find-pivot-index](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1260-shift-2d-grid](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -124,6 +125,7 @@
 | [0234-palindrome-linked-list](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -255,6 +257,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
