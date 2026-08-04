@@ -44,6 +44,7 @@
 | [2784-check-if-array-is-good](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
@@ -65,6 +66,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -263,6 +265,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3731-find-missing-elements](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
