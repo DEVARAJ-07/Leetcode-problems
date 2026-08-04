@@ -20,6 +20,7 @@
 | [0238-product-of-array-except-self](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0322-coin-change](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0322-coin-change/) | Medium |
+| [0486-predict-the-winner](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0500-keyboard-row/) | Easy |
 | [0518-coin-change-ii](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0518-coin-change-ii/) | Medium |
@@ -136,6 +137,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0486-predict-the-winner](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +243,7 @@
 | [0070-climbing-stairs](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0292-nim-game/) | Easy |
+| [0486-predict-the-winner](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0504-base-7](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -284,6 +287,7 @@
 | [0198-house-robber](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0338-counting-bits/) | Easy |
+| [0486-predict-the-winner](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -440,8 +444,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0292-nim-game/) | Easy |
+| [0486-predict-the-winner](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
