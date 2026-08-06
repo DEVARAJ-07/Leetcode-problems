@@ -148,6 +148,7 @@
 | [0290-word-pattern](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0299-bulls-and-cows/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0482-license-key-formatting](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0482-license-key-formatting/) | Easy |
 | [0500-keyboard-row](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0500-keyboard-row/) | Easy |
 | [0504-base-7](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0504-base-7/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/DEVARAJ-07/Leetcode-problems/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
